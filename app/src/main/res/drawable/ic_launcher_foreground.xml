@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Stylized 'N' Path -->
+    <path
+        android:pathData="M25,74 L25,34 Q25,28 31,32 L51,70 Q57,74 57,68 L57,36"
+        android:strokeWidth="11"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="25.0"
+                android:startY="54.0"
+                android:endX="85.0"
+                android:endY="54.0">
+                <item android:color="#7F3DFF" android:offset="0.0" />
+                <item android:color="#FC2A54" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Soundwave/Visualizer Bars -->
+    <path
+        android:pathData="M67,49 L67,59 M73,43 L73,65 M79,47 L79,61 M85,51 L85,57"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:type="linear"
+                android:startX="25.0"
+                android:startY="54.0"
+                android:endX="85.0"
+                android:endY="54.0">
+                <item android:color="#7F3DFF" android:offset="0.0" />
+                <item android:color="#FC2A54" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+</vector>
